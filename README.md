@@ -6,4 +6,4 @@ A Responsive Attractive Landing Page using only the basics of HTML,CSS &amp; Jav
 ![mobile-menu](https://user-images.githubusercontent.com/73429193/188280930-724b480f-cb94-4518-b652-dda4cf950d37.jpg)
 
 # Author
-- Website - [Jumanji Portfolio](https://jumanjigobez.github.io/personal_portfolio
+- Website - [Jumanji Portfolio](https://jumanjigobez.github.io/personal_portfolio)
