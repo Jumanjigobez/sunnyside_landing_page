@@ -376,7 +376,7 @@
 	display: none;
 }
 /*Mobile users*/
-@media (max-width: 375px){
+@media (max-width: 600px){
 	#header{
 		background: url("../images/mobile/image-header.jpg");
 		background-repeat: no-repeat;
